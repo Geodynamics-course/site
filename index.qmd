@@ -1,5 +1,5 @@
 ---
-title: Geodynamics
+title: "Geodynamics"
 ---
 
 This is the website for the Geodynamics course at the University of Helsinki.
