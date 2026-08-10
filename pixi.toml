@@ -13,5 +13,5 @@ preview = "quarto preview"
 [dependencies]
 quarto = ">=1.9.38,<2"
 r = ">=4.3,<5"
-r-knitr
+r-knitr = ">=1.51.7,<2"
 #prek = ">=0.4.4,<0.5"
