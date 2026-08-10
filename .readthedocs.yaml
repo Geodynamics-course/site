@@ -9,7 +9,6 @@ build:
     - "asdf install pixi latest"
     - "asdf global pixi latest"
 
-    - "cd lessons/lesson-02 && pixi run arrows && cd ../.."
     - "pixi run render"
     - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
     - "mv _site/* $READTHEDOCS_OUTPUT/html/."
