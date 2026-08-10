@@ -1,0 +1,14 @@
+# Config borrowed from geojupyter.org GitHub - https://github.com/geojupyter/geojupyter.org
+version: 2
+
+build:
+  os: "ubuntu-lts-latest"
+
+  commands:
+    - "asdf plugin add pixi"
+    - "asdf install pixi latest"
+    - "asdf global pixi latest"
+
+    - "pixi run render"
+    - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
+    - "mv _site/* $READTHEDOCS_OUTPUT/html/."
