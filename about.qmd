@@ -1,0 +1,5 @@
+---
+title: "About the Geodynamics course"
+---
+
+This gives some info about the course.
