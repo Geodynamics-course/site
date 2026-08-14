@@ -1,0 +1,329 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Additional resources",
+    "section": "",
+    "text": "There is no required textbook for this course but the books below are recommended to support the lesson content.\n\nBecker, T. and Faccenna, C. (2025) Tectonic Geodynamics, First edition. Princeton University Press.\nFossen, H. and Teyssier, C. (2025) Plate Tectonics, First edition. Cambridge University Press.\nTurcotte, D. L. and Schubert, G. (2014) Geodynamics, Third edition. Cambridge University Press."
+  },
+  {
+    "objectID": "resources.html#recommended-textbooks",
+    "href": "resources.html#recommended-textbooks",
+    "title": "Additional resources",
+    "section": "",
+    "text": "There is no required textbook for this course but the books below are recommended to support the lesson content.\n\nBecker, T. and Faccenna, C. (2025) Tectonic Geodynamics, First edition. Princeton University Press.\nFossen, H. and Teyssier, C. (2025) Plate Tectonics, First edition. Cambridge University Press.\nTurcotte, D. L. and Schubert, G. (2014) Geodynamics, Third edition. Cambridge University Press."
+  },
+  {
+    "objectID": "resources.html#optional-textbooks",
+    "href": "resources.html#optional-textbooks",
+    "title": "Additional resources",
+    "section": "Optional textbooks",
+    "text": "Optional textbooks\nThese optional texts are referenced in the lectures (in order of relevance to this course):\n\nStüwe, K. (2007) Geodynamics of the Lithosphere, Second edition. Springer. Link to online e-book.\nFowler, C. M. R. (2005) The Solid Earth: An Introduction to Global Geophysics, Second edition. Cambridge University Press\nDavies, G. F. (1999) Dynamic Earth: Plates, Plumes and Mantle Convection. Cambridge University Press.\n\nAnd this recent book might be of interest for those wanting to learn more about Geodynamics in detail:\n\nDuarte, J. (2023) *Dynamics of plate tectonics and mantle convection. Elsevier. Available via the University of Helsinki library."
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html",
+    "href": "lessons/lesson-01/index.html",
+    "title": "Lesson 1 - Plate tectonics",
+    "section": "",
+    "text": "Lesson 1 focuses on the historical development and modern views of plate tectonics.\n\n\n\nLesson 1.1 - Overview of plate tectonics",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#introduction",
+    "href": "lessons/lesson-01/index.html#introduction",
+    "title": "Lesson 1 - Plate tectonics",
+    "section": "",
+    "text": "Lesson 1 focuses on the historical development and modern views of plate tectonics.\n\n\n\nLesson 1.1 - Overview of plate tectonics",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html",
+    "href": "lessons/lesson-02/index.html",
+    "title": "Lesson 2 - Plate tectonics",
+    "section": "",
+    "text": "Lesson 2 focuses on plate tectonics.\n\n\n\nLesson 2.1 - Divergent plate boundaries",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#introduction",
+    "href": "lessons/lesson-02/index.html#introduction",
+    "title": "Lesson 2 - Plate tectonics",
+    "section": "",
+    "text": "Lesson 2 focuses on plate tectonics.\n\n\n\nLesson 2.1 - Divergent plate boundaries",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics"
+    ]
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#goals-of-this-lesson",
+    "href": "slides/lesson-02.1-slides.html#goals-of-this-lesson",
+    "title": "Geodynamics",
+    "section": "Goals of this lesson",
+    "text": "Goals of this lesson\n\nPresent divergent (accreting) plate boundaries"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#plate-boundaries",
+    "href": "slides/lesson-02.1-slides.html#plate-boundaries",
+    "title": "Geodynamics",
+    "section": "Plate boundaries",
+    "text": "Plate boundaries\n\nThree different principal types of plate boundaries\n\nDivergent (accreting)\nConvergent (subduction)\nTransform"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#plate-boundaries-1",
+    "href": "slides/lesson-02.1-slides.html#plate-boundaries-1",
+    "title": "Geodynamics",
+    "section": "Plate boundaries",
+    "text": "Plate boundaries\n\nThree different principal types of plate boundaries\n\nDivergent (accreting)\nConvergent (subduction)\nTransform"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#divergent-plate-boundaries",
+    "href": "slides/lesson-02.1-slides.html#divergent-plate-boundaries",
+    "title": "Geodynamics",
+    "section": "Divergent plate boundaries",
+    "text": "Divergent plate boundaries\n\n\n\nSchematic cross-section of a divergent plate boundary. Fig. 1.4 of Turcotte and Schubert (2014).\n\n\n\nPlate boundary where new plates form and with divergent motion\nThermal buoyancy produces topographic highs near spreading ridges, which decrease away from the ridge\nTypical spreading rates: 4 cm per year"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-1",
+    "href": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-1",
+    "title": "Geodynamics",
+    "section": "Divergent plate boundaries",
+    "text": "Divergent plate boundaries\n\n\n\n\n\nPlot of depths and temperatures for decompression melting. Fig. 1.5 of Turcotte and Schubert (2014).\n\n\n\n\nPlate accretion occurs via decompression melting, where the nearly isothermal asthenosphere ascends beneath a spreading center and crosses the solidus for basalt"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-2",
+    "href": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-2",
+    "title": "Geodynamics",
+    "section": "Divergent plate boundaries",
+    "text": "Divergent plate boundaries\n\nQuestionSolution\n\n\n\n\n\n\n\nPlot of depths and temperatures for decompression melting. Fig. 1.5 of Turcotte and Schubert (2014).\n\n\n\n\nAssume a simple linear solidus \\[\\begin{equation} T(K) = 1500 + 0.12 p \\end{equation}\\] where \\(T(K)\\) is the temperature in Kelvins and \\(p\\) is pressure in MPa\n\n\nIf we assume the density of the rising asthenosphere is \\(\\rho = 3300\\) kg m-3, \\(g = 10\\) m s-2 and a constant temperature of 1600 K, at what depth \\(y\\) does the asthenosphere begin to melt? Note: Pressure \\(p = \\rho g y\\) and needs to be scaled by \\(1 \\times 10^{-6}\\) to have units of MPa.\n\n\n\n\nTo solve for the unknown depth, we need to rearrange our equation to be able to solve for \\(y\\). For this, we first need to substitute in \\(p = 1 \\times 10^{-6} \\rho g y\\).\n\\[\\begin{equation}\nT(K) = 1500 + 0.12 \\times 10^{-6} \\rho g y\n\\end{equation}\\]\nNow we can rearrange.\n\\[\\begin{equation}\ny = \\frac{T(K) - 1500}{0.12 \\times 10^{-6} \\rho g}\n\\end{equation}\\]\nWe can calculate \\(y\\) in Python using the values \\(T(K) = 1600\\), \\(\\rho = 3300\\), and \\(g = 10\\).\n\ny = (1600 - 1500) / (0.12 * 3300 * 10 * 1e-6)\nprint(f\"The decompression depth is {y:.1f} m or {y/1000:.1f} km.\")\n\nThe decompression depth is 25252.5 m or 25.3 km."
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-3",
+    "href": "slides/lesson-02.1-slides.html#divergent-plate-boundaries-3",
+    "title": "Geodynamics",
+    "section": "Divergent plate boundaries",
+    "text": "Divergent plate boundaries\n\n\n\nSchematic cross-section of a divergent plate boundary. Fig. 1.4 of Turcotte and Schubert (2014).\n\n\n\nDivergent plate movement here is a form of gravitational sliding driven in part by the ridge push force \\(F_{\\mathrm{RP}}\\) owing to the high elevations of the ridge relative to the majority of the oceanic plate\n\n\\(F_{\\mathrm{RP}}\\)\n\\({}\\)\n\\(F_{\\mathrm{RP}}\\)\n\\({}\\)"
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#age-of-the-oceanic-crust",
+    "href": "slides/lesson-02.1-slides.html#age-of-the-oceanic-crust",
+    "title": "Geodynamics",
+    "section": "Age of the oceanic crust",
+    "text": "Age of the oceanic crust\n\nAges of the oceanic crust. This graphic by Fabio Crameri from Crameri et al. (2022) is available via the open-access s-Ink.org repository."
+  },
+  {
+    "objectID": "slides/lesson-02.1-slides.html#test-your-might",
+    "href": "slides/lesson-02.1-slides.html#test-your-might",
+    "title": "Geodynamics",
+    "section": "Test your might",
+    "text": "Test your might\n\nYou can find a quiz about this lesson at https://elomake.helsinki.fi/lomakkeet/62991/lomake.html\nPlease take the quiz to help me know what you have learned\nYour answers are anonymous and will not count in your course grade"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geodynamics",
+    "section": "",
+    "text": "This is the website for the Geodynamics course at the University of Helsinki."
+  },
+  {
+    "objectID": "teachers.html",
+    "href": "teachers.html",
+    "title": "About the instructor",
+    "section": "",
+    "text": "David Whipp is a professor of geodynamic modeling at the University of Helsinki, Finland and leader of the Helsinki University Geodynamics Group (HUGG)."
+  },
+  {
+    "objectID": "general-info.html",
+    "href": "general-info.html",
+    "title": "About the course",
+    "section": "",
+    "text": "Course lessons are provided in lecture slides for study prior to class. Each lesson comprises 4-6 sets of slides. In our classroom meetings, we will review select content from the slides before proceeding to work on a set of related problems or discussing a relevant scientific journal article. At the end of class sessions we will discuss the answers to these problems if we have time.\nThe course “homework” is simply a complete, clearly written copy of the exercises from our class sessions. If you participate in the class sessions and complete all of the exercises during that time, you will have no actual homework other than studying the lecture slides.\nOn days designated for discussion of a scientific journal article, a copy of the article will be made available no later than one week prior to the discussion and you should read the entire article before arriving to class. You do not necessarily need to understand everything in the article, but it is important to read the entire thing. In class, you will discuss the article in groups and then your group will present a figure or table from the article to the class.\nNote: You may work together in a group to complete the exercises but the work you submit should be completed individually in your own words, not in a group."
+  },
+  {
+    "objectID": "general-info.html#course-description",
+    "href": "general-info.html#course-description",
+    "title": "About the course",
+    "section": "",
+    "text": "Course lessons are provided in lecture slides for study prior to class. Each lesson comprises 4-6 sets of slides. In our classroom meetings, we will review select content from the slides before proceeding to work on a set of related problems or discussing a relevant scientific journal article. At the end of class sessions we will discuss the answers to these problems if we have time.\nThe course “homework” is simply a complete, clearly written copy of the exercises from our class sessions. If you participate in the class sessions and complete all of the exercises during that time, you will have no actual homework other than studying the lecture slides.\nOn days designated for discussion of a scientific journal article, a copy of the article will be made available no later than one week prior to the discussion and you should read the entire article before arriving to class. You do not necessarily need to understand everything in the article, but it is important to read the entire thing. In class, you will discuss the article in groups and then your group will present a figure or table from the article to the class.\nNote: You may work together in a group to complete the exercises but the work you submit should be completed individually in your own words, not in a group."
+  },
+  {
+    "objectID": "general-info.html#goals-for-the-course",
+    "href": "general-info.html#goals-for-the-course",
+    "title": "About the course",
+    "section": "Goals for the course",
+    "text": "Goals for the course\n\nIntroduce key physical processes related to deformation of the Earth and the forces that drive them, focussing on the lithosphere\nProvide an understanding of the mathematical representation and behavior of these processes through collaborative, in-class exercises\nFamiliarize students with the current state of geodynamics research through discussion of scientific journal articles"
+  },
+  {
+    "objectID": "general-info.html#learning-outcomes",
+    "href": "general-info.html#learning-outcomes",
+    "title": "About the course",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nUpon completion of this course students will\n\nBe familiar with the main geodynamic processes affecting the lithosphere\nBe able to use physical equations to predict the behavior of lithospheric geodynamic processes\nUnderstand how various geodynamic processes interact with one another"
+  },
+  {
+    "objectID": "general-info.html#grading",
+    "href": "general-info.html#grading",
+    "title": "About the course",
+    "section": "Grading",
+    "text": "Grading\nNote: Assessment of exercises and course grades are provided only for students registered for the course at the University of Helsinki or taking the course at another Finnish university through the FIN-GEO education network.\nCourse grades will be given using the six-level grading scale from 0 to 5. Your grade will be based on (1) completed copies of the in-class exercises and (2) a final exam. The final exam will occur no later than one week after the course lectures end. The weight of each item is given below.\n\n20% - “Homework”\n80% - Final exam\n\nNote: Deadlines for homework are firm and given in the schedule on the syllabus. Homework will be due by the start of class on the due date. If you anticipate you will not be able to submit any of these items by the given deadline, you should let me know as early as possible and must let me know at least one day in advance. Late homework will be marked down 25% per day late, so please submit it on time."
+  },
+  {
+    "objectID": "slides/lesson-01.1-slides.html#practical-matters",
+    "href": "slides/lesson-01.1-slides.html#practical-matters",
+    "title": "Geodynamics",
+    "section": "Practical matters",
+    "text": "Practical matters\n\nWho are the teacher and course assistant?\nWhen/where is class?\nWhat does the course cover?\nWhat do you need to do?\nTextbook(s), what to bring to class, etc.\n\nAll of this can be found in Moodle! https://moodle.helsinki.fi/course/view.php?id=9628."
+  },
+  {
+    "objectID": "slides/lesson-01.1-slides.html#goals-for-this-course",
+    "href": "slides/lesson-01.1-slides.html#goals-for-this-course",
+    "title": "Geodynamics",
+    "section": "Goals for this course",
+    "text": "Goals for this course\n\nProvide a general introduction to geodynamics with a focus on the lithosphere\nReview key geodynamic processes and the basic mathematical relationships used to quantify and interpret them\nEstablish some sense of the current areas of focus in geodynamic scientific literature\nEnhance your scientific abilities through practical course exercises"
+  },
+  {
+    "objectID": "slides/lesson-01.1-slides.html#what-is-geodynamics",
+    "href": "slides/lesson-01.1-slides.html#what-is-geodynamics",
+    "title": "Geodynamics",
+    "section": "What is geodynamics?",
+    "text": "What is geodynamics?\n\nStudy of the dynamics of the Earth\n\nPhysical processes\nPlate tectonics and other dynamic geological phenomena"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Use these materials",
+    "section": "",
+    "text": "We provide access to all materials used for this course in the course Github repository. Use of course content is, however, subject to the content license.\nYou can find information about how to create your own copy of the course in the instructions below."
+  },
+  {
+    "objectID": "materials.html#license",
+    "href": "materials.html#license",
+    "title": "Use these materials",
+    "section": "License",
+    "text": "License\nContent and materials for this course are made available under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0). Briefly, this license states that you are free to:\n\nShare: You can copy and redistribute these materials to any medium and for any purpose\nAdapt: You can modify and build upon these materials for any purpose\n\nThe use of these materials is, however, subject to the following terms:\n\nAttribution: You must give appropriate credit for the source of these materials, including a link to the license and an indication of whether changes to the materials have been made\nShareAlike: If you modify or build upon these materials you must distribute them under the same license\n\nAll the instructional material is made available under the Creative Commons Attribution-ShareAlike 4.0 International licence . See the full licence.\nYou may refer to the Creative Commons website for a complete copy of the license deed."
+  },
+  {
+    "objectID": "materials.html#hosting-your-own-copy-of-the-course",
+    "href": "materials.html#hosting-your-own-copy-of-the-course",
+    "title": "Use these materials",
+    "section": "Hosting your own copy of the course",
+    "text": "Hosting your own copy of the course\nInstructions coming soon…"
+  },
+  {
+    "objectID": "lessons/lesson-02/lesson-01.1.html",
+    "href": "lessons/lesson-02/lesson-01.1.html",
+    "title": "Lesson 2.1 - Divergent plate boundaries",
+    "section": "",
+    "text": "Lesson 2.1 focuses on divergent plate boundaries.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics",
+      "Lesson 2.1 - Divergent plate boundaries"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-02/lesson-01.1.html#introduction",
+    "href": "lessons/lesson-02/lesson-01.1.html#introduction",
+    "title": "Lesson 2.1 - Divergent plate boundaries",
+    "section": "",
+    "text": "Lesson 2.1 focuses on divergent plate boundaries.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics",
+      "Lesson 2.1 - Divergent plate boundaries"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-02/lesson-01.1.html#lesson-2.1---divergent-plate-boundaries",
+    "href": "lessons/lesson-02/lesson-01.1.html#lesson-2.1---divergent-plate-boundaries",
+    "title": "Lesson 2.1 - Divergent plate boundaries",
+    "section": "Lesson 2.1 - Divergent plate boundaries",
+    "text": "Lesson 2.1 - Divergent plate boundaries\n\n\nView the slides in full-screen mode (opens a new tab).",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics",
+      "Lesson 2.1 - Divergent plate boundaries"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-02/lesson-01.1.html#questions",
+    "href": "lessons/lesson-02/lesson-01.1.html#questions",
+    "title": "Lesson 2.1 - Divergent plate boundaries",
+    "section": "Questions",
+    "text": "Questions\n\nQuestion 1.\nQuestion 2.\nQuestion 3.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 2 - Plate tectonics",
+      "Lesson 2.1 - Divergent plate boundaries"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-01/lesson-01.1.html",
+    "href": "lessons/lesson-01/lesson-01.1.html",
+    "title": "Lesson 1.1 - Overview of plate tectonics",
+    "section": "",
+    "text": "Lesson 1 focuses on the historical development and modern views of plate tectonics.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics",
+      "Lesson 1.1 - Overview of plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-01/lesson-01.1.html#introduction",
+    "href": "lessons/lesson-01/lesson-01.1.html#introduction",
+    "title": "Lesson 1.1 - Overview of plate tectonics",
+    "section": "",
+    "text": "Lesson 1 focuses on the historical development and modern views of plate tectonics.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics",
+      "Lesson 1.1 - Overview of plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-01/lesson-01.1.html#lesson-1.1---overview-of-plate-tectonics",
+    "href": "lessons/lesson-01/lesson-01.1.html#lesson-1.1---overview-of-plate-tectonics",
+    "title": "Lesson 1.1 - Overview of plate tectonics",
+    "section": "Lesson 1.1 - Overview of plate tectonics",
+    "text": "Lesson 1.1 - Overview of plate tectonics\n\n\nView the slides in full-screen mode (opens a new tab).",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics",
+      "Lesson 1.1 - Overview of plate tectonics"
+    ]
+  },
+  {
+    "objectID": "lessons/lesson-01/lesson-01.1.html#questions",
+    "href": "lessons/lesson-01/lesson-01.1.html#questions",
+    "title": "Lesson 1.1 - Overview of plate tectonics",
+    "section": "Questions",
+    "text": "Questions\n\nQuestion 1.\nQuestion 2.\nQuestion 3.",
+    "crumbs": [
+      "About the course",
+      "Lessons",
+      "Lesson 1 - Plate tectonics",
+      "Lesson 1.1 - Overview of plate tectonics"
+    ]
+  }
+]
