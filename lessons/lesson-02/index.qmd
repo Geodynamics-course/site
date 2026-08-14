@@ -1,0 +1,13 @@
+---
+title: "Lesson 2 - Plate tectonics"
+slide-format: revealjs
+page-layout: article
+---
+
+## Introduction
+
+Lesson 2 focuses on plate tectonics.
+
+### Contents
+
+- [Lesson 2.1 - Divergent plate boundaries](lesson-02.1.qmd)

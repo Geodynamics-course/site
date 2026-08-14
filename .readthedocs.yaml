@@ -9,6 +9,8 @@ build:
     - "asdf install pixi latest"
     - "asdf global pixi latest"
 
+    - "R INSTALL "
+
     - "pixi run render"
     - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
     - "mv _site/* $READTHEDOCS_OUTPUT/html/."

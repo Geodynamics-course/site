@@ -1,0 +1,15 @@
+---
+title: "About the instructor"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dwhipp/
+    - icon: github
+      text: Github
+      href: https://github.com/davewhipp
+---
+
+[David Whipp](https://davewhipp.github.io/markdown-cv/) is a professor of geodynamic modeling at the [University of Helsinki, Finland](https://www.helsinki.fi/en/) and leader of the [Helsinki University Geodynamics Group (HUGG)](https://helsinki.fi/geodynamics).

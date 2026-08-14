@@ -1,0 +1,25 @@
+---
+title: "Lesson 2.1 - Divergent plate boundaries"
+---
+
+## Introduction
+
+Lesson 2.1 focuses on divergent plate boundaries.
+
+## Lesson 2.1 - Divergent plate boundaries
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="../../slides/lesson-02.1-slides.html"></iframe>
+```
+
+View the slides in <a href="../../slides/lesson-02.1-slides.html" target="_blank">full-screen mode</a> (opens a new tab).
+
+</div>
+
+## Questions
+
+1. Question 1.
+2. Question 2.
+3. Question 3.

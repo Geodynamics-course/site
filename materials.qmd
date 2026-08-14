@@ -1,0 +1,27 @@
+---
+title: "Use these materials"
+---
+
+We provide access to all materials used for this course in the [course Github repository](https://github.com/Geodynamics-course/site). Use of course content is, however, subject to the [content license](#license).
+
+You can find information about how to [create your own copy of the course](#use-these-materials) in the instructions below.
+
+## License
+
+Content and materials for this course are made available under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">). Briefly, this license states that you are free to:
+
+- **Share**: You can copy and redistribute these materials to any medium and for any purpose
+- **Adapt**: You can modify and build upon these materials for any purpose
+
+The use of these materials is, however, subject to the following terms:
+
+- **Attribution**: You must give appropriate credit for the source of these materials, including a link to the license and an indication of whether changes to the materials have been made
+- **ShareAlike**: If you modify or build upon these materials you must distribute them under the same license
+
+All the instructional material is made available under the Creative Commons Attribution-ShareAlike 4.0 International licence . See the full licence.
+
+You may refer to the Creative Commons website for a [complete copy of the license deed](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Hosting your own copy of the course
+
+Instructions coming soon...

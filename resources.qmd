@@ -1,0 +1,23 @@
+---
+title: "Additional resources"
+---
+
+## Recommended textbooks
+
+There is no required textbook for this course but the books below are recommended to support the lesson content.
+
+- Becker, T. and Faccenna, C. (2025) [*Tectonic Geodynamics*, First edition. Princeton University Press](https://press.princeton.edu/books/hardcover/9780691212586/tectonic-geodynamics).
+- Fossen, H. and Teyssier, C. (2025) [*Plate Tectonics*, First edition. Cambridge University Press](https://www.cambridge.org/highereducation/books/plate-tectonics/F8E9F70971836CAA1FE4F2D63F16A9CD#overview).
+- Turcotte, D. L. and Schubert, G. (2014) [*Geodynamics*, Third edition. Cambridge University Press](https://www.cambridge.org/highereducation/books/geodynamics/E0E847DA9FE68BDB90C2E457791F0C98).
+
+## Optional textbooks
+
+These optional texts are referenced in the lectures (in order of relevance to this course):
+
+- Stüwe, K. (2007) Geodynamics of the Lithosphere, Second edition. Springer. Link to online e-book.
+- Fowler, C. M. R. (2005) The Solid Earth: An Introduction to Global Geophysics, Second edition. Cambridge University Press
+- Davies, G. F. (1999) Dynamic Earth: Plates, Plumes and Mantle Convection. Cambridge University Press.
+
+And this recent book might be of interest for those wanting to learn more about Geodynamics in detail:
+
+- Duarte, J. (2023) [*Dynamics of plate tectonics and mantle convection. Elsevier](https://doi.org/10.1016/C2020-0-02922-1). *Available via the University of Helsinki library.*

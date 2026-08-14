@@ -3,14 +3,28 @@ project:
 
 website:
   title: "Geodynamics"
+  page-footer: "This content is licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC BY-SA 4.0</a><img src='https://mirrors.creativecommons.org/presskit/icons/cc.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'><img src='https://mirrors.creativecommons.org/presskit/icons/by.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'><img src='https://mirrors.creativecommons.org/presskit/icons/sa.svg' alt='' style='max-width: 1em;max-height:1em;margin-left: .2em;'>"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - general-info.qmd
+      - teachers.qmd
+      - resources.qmd
+      - materials.qmd
+
+  sidebar:
+    style: "floating"
+    search: true
+    #collapse-level: 1
+    contents:
+      - section: "Lessons"
+        contents:
+        - auto: "lessons/*/*.qmd"
+      - section: "Exercises"
+        contents:
+        - auto: "exercises/*.qmd"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: united
+    css: css/styles.css
     toc: true

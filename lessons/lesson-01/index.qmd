@@ -1,0 +1,13 @@
+---
+title: "Lesson 1 - Plate tectonics"
+slide-format: revealjs
+page-layout: article
+---
+
+## Introduction
+
+Lesson 1 focuses on the historical development and modern views of plate tectonics.
+
+### Contents
+
+- [Lesson 1.1 - Overview of plate tectonics](lesson-01.1.qmd)

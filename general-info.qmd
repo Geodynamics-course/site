@@ -1,0 +1,39 @@
+---
+title: "About the course"
+---
+
+## Course description
+
+Course lessons are provided in lecture slides for study prior to class. Each lesson comprises 4-6 sets of slides. In our classroom meetings, we will review select content from the slides before proceeding to work on a set of related problems or discussing a relevant scientific journal article. At the end of class sessions we will discuss the answers to these problems if we have time.
+
+The course "homework" is simply a complete, clearly written copy of the exercises from our class sessions. If you participate in the class sessions and complete all of the exercises during that time, you will have no actual homework other than studying the lecture slides.
+
+On days designated for discussion of a scientific journal article, a copy of the article will be made available no later than one week prior to the discussion and you should read the entire article before arriving to class. You do not necessarily need to understand everything in the article, but it is important to read the entire thing. In class, you will discuss the article in groups and then your group will present a figure or table from the article to the class.
+
+**Note**: You may work together in a group to complete the exercises but the work you submit should be completed individually in your own words, not in a group.
+
+
+## Goals for the course
+
+- Introduce key physical processes related to deformation of the Earth and the forces that drive them, focussing on the lithosphere
+- Provide an understanding of the mathematical representation and behavior of these processes through collaborative, in-class exercises
+- Familiarize students with the current state of geodynamics research through discussion of scientific journal articles
+
+## Learning outcomes
+
+Upon completion of this course students will
+
+- Be familiar with the main geodynamic processes affecting the lithosphere
+- Be able to use physical equations to predict the behavior of lithospheric geodynamic processes
+- Understand how various geodynamic processes interact with one another
+
+## Grading
+
+*Note: Assessment of exercises and course grades are provided only for students registered for the course at the University of Helsinki or taking the course at another Finnish university through the FIN-GEO education network.*
+
+Course grades will be given using the six-level grading scale from 0 to 5. Your grade will be based on (1) completed copies of the in-class exercises and (2) a final exam. The final exam will occur no later than one week after the course lectures end. The weight of each item is given below.
+
+- 20% - "Homework"
+- 80% - Final exam
+
+*Note: Deadlines for homework are firm and given in the schedule on the syllabus. Homework will be due by the start of class on the due date. If you anticipate you will not be able to submit any of these items by the given deadline, you should let me know as early as possible and must let me know at least one day in advance. Late homework will be marked down 25% per day late, so please submit it on time.*
