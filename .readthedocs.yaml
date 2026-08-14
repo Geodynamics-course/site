@@ -9,7 +9,7 @@ build:
     - "asdf install pixi latest"
     - "asdf global pixi latest"
 
-    - "apt install r-base"
+    - "asdf plugin add r https://github.com/asdf-community/asdf-r.git"
 
     - "pixi run render"
     - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
