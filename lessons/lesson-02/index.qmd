@@ -11,8 +11,4 @@ Lesson 2 focuses on plate tectonics.
 
 ### Contents
 
-Coming soon...
-
-<!-- 
 - [Lesson 2.1 - Divergent plate boundaries](lesson-02.1.qmd)
--->
