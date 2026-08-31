@@ -9,7 +9,7 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    logo: ../img/HY_logo.png
+    logo: img/HY_logo.png
     css: ../css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
