@@ -3,3 +3,16 @@ title: "Geodynamics"
 ---
 
 This is the website for the Geodynamics course at the University of Helsinki.
+
+## Course topics
+
+This course introduces Geodynamics through a series of lessons and exercises that can be found on the left side of this page. Course topics include:
+
+- Earth's structure and plate tectonics
+- Continuum mechanics
+- Elasticity and flexure of the lithosphere
+- Friction and earthquakes
+- Viscous flow and plasticity
+- Lithospheric strength profiles
+- Heat transfer and convection
+- Tectonic plate driving forces
