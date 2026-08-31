@@ -11,13 +11,9 @@ Lesson 1 focuses on the structure of Earth and the emergence of plate tectonics.
 
 ### Contents
 
-Coming soon...
-
-<!-- 
 - [Lesson 1.1 - What is Geodynamics?](lesson-01.1.qmd)
 - [Lesson 1.2 - Earth impressions](lesson-01.1.qmd)
 - [Lesson 1.3 - Toward plate tectonics](lesson-01.1.qmd)
 - [Lesson 1.4 - Overview of plate tectonics](lesson-01.1.qmd)
 - [Lesson 1.5 - Plate boundary types and the Wilson cycle](lesson-01.1.qmd)
 - [Lesson 1.6 - Describing plate motions](lesson-01.1.qmd)
--->
