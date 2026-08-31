@@ -49,7 +49,7 @@ All of this can be found in on the course website!<br/>
 <video
   data-autoplay
   src="img/muller-animation.mp4"
-></video>
+></video><br/>Müller et al., 2022
 
 ## Heat transfer
 
