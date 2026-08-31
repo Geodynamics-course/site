@@ -13,6 +13,7 @@ format:
     css: /css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
+bibliography: references.bib
 ---
 
 ## Practical matters
@@ -46,13 +47,20 @@ All of this can be found in on the course website!<br/>
 
 ## Plate tectonics
 
-![1 billion years of tectonic plate motions from Müller et al. (2022).](img/muller-animation.mp4){height="500"}
-
-
-## Heat transfer
-
-## Stress, strain, and rheology
+![1 billion years of reconstructed tectonic plate motions from Müller et al. (2022).](img/muller-animation.mp4){height="500"}
 
 ## Isostasy and gravity
 
+![Calculated flexure of intact and broken lithospheric plates. Figure 3.11 of [@Becker2025].](img/bf-f3-11.png){height="500"}
+
 ## Faulting
+
+## Stress, strain, and rheology
+
+## Heat transfer
+
+
+
+
+
+
