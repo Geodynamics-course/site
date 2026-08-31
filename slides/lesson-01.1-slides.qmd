@@ -44,5 +44,17 @@ All of this can be found in on the course website!<br/>
     - Plate tectonics and other dynamic geological phenomena
 :::
 
-## Plate tectonics {background-video="img/muller-animation.mp4"}
+## Plate tectonics
 
+<video
+  data-autoplay
+  src="img/muller-animation.mp4"
+></video>
+
+## Heat transfer
+
+## Stress, strain, and rheology
+
+## Isostasy and gravity
+
+## Faulting
