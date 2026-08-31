@@ -51,20 +51,20 @@ All of this can be found in on the course website!<br/>
 
 ## Isostasy and gravity
 
-![Calculated flexure of intact and broken lithospheric plates. Fig. 3.11 of Becker and Faccenna [-@Becker2025].](img/bf-f3.11.png){height="450"}
+![Calculated flexure of intact and broken lithospheric plates. Fig. 3.11 of Becker and Faccenna [-@Becker2025].](img/bf-f3.11.png){height="500"}
 
 ## Faulting
 
-![Conceptual brittle damage zone around a strike-slip fault zone. Fig. 3.22 of Becker and Faccenna [-@Becker2025].](img/bf-f3.22.png){height="450"}
+![Conceptual brittle damage zone around a strike-slip fault zone. Fig. 3.22 of Becker and Faccenna [-@Becker2025].](img/bf-f3.22.png){height="500"}
 
 ## Stress, strain, and rheology
 
-![Oceanic lithospheric strength profiles for various ages. Fig. 5.12 of Becker and Faccenna [-@Becker2025].](img/bf-f5.12.png){height="450"}
+![Oceanic lithospheric strength profiles for various ages. Fig. 5.12 of Becker and Faccenna [-@Becker2025].](img/bf-f5.12.png){height="500"}
 
 ## Heat transfer
 
+![2D thermal convection models of varying Rayleigh number $Ra$. Fig. 7.24 of Becker and Faccenna [-@Becker2025].](img/bf-f7.24.png){height="500"}
 
-
-
+## References
 
 
