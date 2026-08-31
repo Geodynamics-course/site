@@ -1,5 +1,5 @@
 ---
-title: "Additional resources"
+title: "References"
 ---
 
 ## Recommended textbooks
@@ -20,4 +20,4 @@ These optional texts are referenced in the lectures (in order of relevance to th
 
 And this recent book might be of interest for those wanting to learn more about Geodynamics in detail:
 
-- Duarte, J. (2023) [*Dynamics of plate tectonics and mantle convection. Elsevier](https://doi.org/10.1016/C2020-0-02922-1). *Available via the University of Helsinki library.*
+- Duarte, J. (2023) [*Dynamics of plate tectonics and mantle convection*. Elsevier](https://doi.org/10.1016/C2020-0-02922-1). *Available via the University of Helsinki library.*
