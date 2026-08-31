@@ -1,0 +1,54 @@
+---
+title: "Lesson 2.1 - Divergent plate boundaries"
+filters:
+- shortiquiz
+---
+
+## Introduction
+
+Lesson 2.1 focuses on divergent plate boundaries.
+
+## Lesson 2.1 - Divergent plate boundaries
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="../../slides/lesson-02.1-slides.html"></iframe>
+```
+
+View the slides in <a href="../../slides/lesson-02.1-slides.html" target="_blank">full-screen mode</a> (opens a new tab).
+
+</div>
+
+## Questions
+
+:::{.qgroup}
+
+:::{.qmulti}
+What is a typical spreading rate for a mid-ocean ridge?
+
+- 4 cm/yr
+- 4 mm/yr
+- 4 m/yr
+- 4 km/yr
+:::
+
+:::{.qmulti}
+Roughly how old is the oldest oceanic lithosphere?
+
+- 200 Ma
+- 2 Ma
+- 100 Ma
+- 500 Ma
+:::
+
+:::{.qmulti}
+What causes the asthenosphere to melt at spreading ridges (in order to form new plate material)?
+
+- Decompression melting
+- Heating by superplumes
+- High frictional heating
+- Aliens (!)
+:::
+
+:::
