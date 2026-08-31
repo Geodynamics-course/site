@@ -44,5 +44,5 @@ All of this can be found in on the course website!<br/>
     - Plate tectonics and other dynamic geological phenomena
 :::
 
-## Plate tectonics {background-video="img/muller-animation.mov"}
+## Plate tectonics {background-video="img/muller-animation.mp4"}
 
