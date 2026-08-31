@@ -47,13 +47,15 @@ All of this can be found in on the course website!<br/>
 
 ## Plate tectonics
 
-![1 billion years of reconstructed tectonic plate motions from Müller et al. (2022).](img/muller-animation.mp4){height="500"}
+![1 billion years of reconstructed tectonic plate motions from Müller et al. [-@Muller2022].](img/muller-animation.mp4){height="500"}
 
 ## Isostasy and gravity
 
 ![Calculated flexure of intact and broken lithospheric plates. Figure 3.11 of [@Becker2025].](img/bf-f3.11.png){height="450"}
 
 ## Faulting
+
+![Conceptual brittle damage zone around a strike-slip fault zone. Figure 3.22 of [@Becker2025].](img/bf-f3.22.png){height="450"}
 
 ## Stress, strain, and rheology
 
