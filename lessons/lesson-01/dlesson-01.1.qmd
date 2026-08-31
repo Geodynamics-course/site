@@ -1,10 +1,12 @@
 ---
-title: "Lesson 1.1 - Overview of plate tectonics"
+title: "Lesson 1.1 - What is Geodynamics?"
+filters:
+- shortiquiz
 ---
 
 ## Introduction
 
-Lesson 1 focuses on the historical development and modern views of plate tectonics.
+Lesson 1.1 introduces the course and field of Geodynamics.
 
 ## Lesson 1.1 - Overview of plate tectonics
 
@@ -20,6 +22,33 @@ View the slides in <a href="../../slides/lesson-01.1-slides.html" target="_blank
 
 ## Questions
 
-1. Question 1.
-2. Question 2.
-3. Question 3.
+:::{.qgroup}
+
+:::{.qmulti}
+What is a typical spreading rate for a mid-ocean ridge?
+
+- 4 cm/yr
+- 4 mm/yr
+- 4 m/yr
+- 4 km/yr
+:::
+
+:::{.qmulti}
+Roughly how old is the oldest oceanic lithosphere?
+
+- 200 Ma
+- 2 Ma
+- 100 Ma
+- 500 Ma
+:::
+
+:::{.qmulti}
+What causes the asthenosphere to melt at spreading ridges (in order to form new plate material)?
+
+- Decompression melting
+- Heating by superplumes
+- High frictional heating
+- Aliens (!)
+:::
+
+:::
