@@ -1,6 +1,6 @@
 ---
 title: "Geodynamics"
-subtitle: "Lesson 1.1 - What is Geodynamics?"
+subtitle: "Lesson 1.1 - Overview of plate tectonics"
 author: "David Whipp, University of Helsinki"
 institute: "firstname.lastname@helsinki.fi"
 format:
@@ -17,14 +17,14 @@ format:
 
 ## Practical matters
 
-- Who is the teacher?
+- Who are the teacher and course assistant?
 - When/where is class?
 - What does the course cover?
 - What do you need to do?
 - Textbook(s), what to bring to class, etc.
 
-All of this can be found in on the course website!<br/>
-<https://geodynamics-course.readthedocs.io>.
+All of this can be found in Moodle!<br/>
+<https://moodle.helsinki.fi/course/view.php?id=9628>.
 
 ## Goals for this course
 
