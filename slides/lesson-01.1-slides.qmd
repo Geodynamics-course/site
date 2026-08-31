@@ -37,10 +37,12 @@ All of this can be found in on the course website!<br/>
 
 ## What is geodynamics? {background-image="img/machapuchare.jpg" background-opacity="0.25"}
 
-
-- Study of the dynamics of the Earth
 ::: {.incremental}
+- Study of the dynamics of the Earth
 
     - Physical processes
     - Plate tectonics and other dynamic geological phenomena
 :::
+
+## Plate tectonics {background-video="img/muller-animation.mov"}
+
