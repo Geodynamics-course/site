@@ -25,7 +25,7 @@ bibliography: ../references.bib
 :::: {.columns}
 
 ::: {.column width="40%"}
-![Topography of Earth, Venus, and Mars. Fig. 1.1 of Becker and Faccenna [-@Becker2025].](img/bf-f1.1.png){height="400"}
+![Topography of Earth, Venus, and Mars. Fig. 1.1 of Becker and Faccenna [-@Becker2025].](img/bf-f1.1.png){height="500"}
 :::
 
 ::: {.column width="60%"}
@@ -35,3 +35,5 @@ bibliography: ../references.bib
 :::
 
 ::::
+
+## References
