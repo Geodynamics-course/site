@@ -1,6 +1,6 @@
 ---
 title: "Geodynamics"
-subtitle: "Lesson 1.1 - Overview of plate tectonics"
+subtitle: "Lesson 1.2 - Earth impressions"
 author: "David Whipp, University of Helsinki"
 institute: "firstname.lastname@helsinki.fi"
 format:
@@ -9,35 +9,29 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    logo: ../../img/HY_logo.png
-    css: ../../css/styles.css
+    logo: /img/HY_logo.png
+    css: /css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
+bibliography: ../references.bib
 ---
 
-## Practical matters
+## Goals for this lesson
 
-- Who are the teacher and course assistant?
-- When/where is class?
-- What does the course cover?
-- What do you need to do?
-- Textbook(s), what to bring to class, etc.
+- Review various observables from Earth's surface and interior
 
-All of this can be found in Moodle!<br/>
-<https://moodle.helsinki.fi/course/view.php?id=9628>.
+## Topography
 
-## Goals for this course
+:::: {.columns}
 
-- Provide a general introduction to geodynamics with a <b>focus on the lithosphere</b>
-- Review <b>key geodynamic processes and the basic mathematical relationships</b> used to quantify and interpret them
-- Establish some sense of the <b>current areas of focus</b> in geodynamic scientific literature
-- <b>Enhance your scientific abilities</b> through practical course exercises
-
-## What is geodynamics? {background-image="img/machapuchare.jpg"}
-
-::: {.incremental}
-- Study of the dynamics of the Earth
-
-    - Physical processes
-    - Plate tectonics and other dynamic geological phenomena
+::: {.column width="40%"}
+![Topography of Earth, Venus, and Mars. Fig. 1.1 of Becker and Faccenna [-@Becker2025].](img/bf-f1.1.png){height="400"}
 :::
+
+::: {.column width="60%"}
+- Topography provides insight into processes shaping planets' surfaces and interior dynamics
+- In these planetary perspectives, the color scheme highlights landscape differences between nearby planets
+- Plate tectonics plays a significant role shaping Earth's topography
+:::
+
+::::
