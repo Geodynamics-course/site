@@ -22,6 +22,14 @@ All the instructional material is made available under the Creative Commons Attr
 
 You may refer to the Creative Commons website for a [complete copy of the license deed](https://creativecommons.org/licenses/by-sa/4.0/).
 
+## Software used for this website
+
+- [Quarto](https://quarto.org/)
+- [Quarto extensions](https://quarto.org/docs/extensions/)
+
+    - [Arrows](https://github.com/EmilHvitfeldt/quarto-arrows): Annotation on lesson slides
+    - [Shortiquiz](https://github.com/skyfroger/shortiquiz): Lesson quizes
+
 ## Hosting your own copy of the course
 
 Instructions coming soon...
