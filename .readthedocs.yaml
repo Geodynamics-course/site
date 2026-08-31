@@ -11,7 +11,7 @@ build:
 
     - "asdf plugin add r https://github.com/asdf-community/asdf-r.git"
 
-    - "pixi add nbformat pyyaml"
+    - "pixi add nbformat pyyaml nbclient"
 
     - "pixi run render"
     - "mkdir --parents $READTHEDOCS_OUTPUT/html/"
