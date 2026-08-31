@@ -51,7 +51,7 @@ All of this can be found in on the course website!<br/>
 
 ## Isostasy and gravity
 
-![Calculated flexure of intact and broken lithospheric plates. Figure 3.11 of [@Becker2025].](img/bf-f3-11.png){height="500"}
+![Calculated flexure of intact and broken lithospheric plates. Figure 3.11 of [@Becker2025].](img/bf-f3.11.png){height="450"}
 
 ## Faulting
 
