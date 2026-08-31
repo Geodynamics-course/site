@@ -20,7 +20,7 @@ bibliography: ../references.bib
 
 - Review various observables from Earth's surface and interior
 
-## Topography
+## Topography {.smaller}
 
 :::: {.columns}
 
@@ -35,5 +35,9 @@ bibliography: ../references.bib
 :::
 
 ::::
+
+## The role of isostasy
+
+
 
 ## References
