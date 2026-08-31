@@ -13,7 +13,7 @@ format:
     css: /css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
-bibliography: references.bib
+bibliography: "/references.bib"
 ---
 
 ## Practical matters
