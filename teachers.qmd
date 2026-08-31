@@ -1,9 +1,15 @@
 ---
-title: "About the instructor"
+title: "Instructor"
 about:
   template: jolla
-  image: profile.jpg
+  image: img/whipp-2026.png
   links:
+    - icon: person-fill
+      text: Curriculum vitae
+      href: https://davewhipp.github.io/markdown-cv/
+    - icon: people-fill
+      text: Research group
+      href: https://helsinki.fi/geodynamics
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/dwhipp/
