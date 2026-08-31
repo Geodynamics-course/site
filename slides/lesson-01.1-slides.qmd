@@ -46,7 +46,7 @@ All of this can be found in on the course website!<br/>
 
 ## Plate tectonics
 
-![1 billion years of tectonic plate motions from Müller et al. (2022).](img/muller-animation.mp4){height="300"}
+![1 billion years of tectonic plate motions from Müller et al. (2022).](img/muller-animation.mp4){height="500"}
 
 
 ## Heat transfer
