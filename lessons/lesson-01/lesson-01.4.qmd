@@ -1,22 +1,22 @@
 ---
-title: "Lesson 1.1 - What is Geodynamics?"
+title: "Lesson 1.4 - Overview of plate tectonics"
 filters:
 - shortiquiz
 ---
 
 ## Introduction
 
-Lesson 1.1 introduces the course and field of Geodynamics.
+Lesson 1.4 introduces the course and field of Geodynamics.
 
-## Lesson 1.1 - Overview of plate tectonics
+## Lesson 1.4 - Overview of plate tectonics
 
 <div>
 
 ```{=html}
-<iframe class="slide-deck" src="../../slides/lesson-01.1-slides.html"></iframe>
+<iframe class="slide-deck" src="../../slides/lesson-01.4-slides.html"></iframe>
 ```
 
-View the slides in <a href="../../slides/lesson-01.1-slides.html" target="_blank">full-screen mode</a> (opens a new tab).
+View the slides in <a href="../../slides/lesson-01.4-slides.html" target="_blank">full-screen mode</a> (opens a new tab).
 
 </div>
 
