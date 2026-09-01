@@ -72,4 +72,37 @@ In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is eq
 \rho_{\mathrm{c}} h = \rho_{\mathrm{m}} b
 \end{equation}
 
+## Calculating isostatic equilibrium {.smaller}
+
+![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.jpg)
+
+::: {.panel-tabset}
+
+### Question
+
+**[How high does a 35-km-thick continent stick out above the mantle?]{style="color:teal;"}**
+
+:::
+
+### Solution
+
+- At eqiulibrium we know $\rho_{\mathrm{c}} h = \rho_{\mathrm{m}} b$
+- Using $\rho_{\mathrm{c}} = 2750$ kg m<sup>-3</sup>, $\rho_{\mathrm{m}} = 3300$ kg m<sup>-3</sup>, and $h = 35$ km we can solve for $b$:
+
+    \begin{equation}
+    b = \frac{\rho_{\mathrm{c}} h}{\rho_{\mathrm{m}}}
+    \end{equation
+
+Plugging in numbers we find
+
+```{python}
+#| echo: true
+
+b = (2750 * 35000) / 3300
+elevation = 35000 - b
+print(f"The height above the mantle is {elevation/1000:.1f} km.")
+```
+
+:::
+
 ## References
