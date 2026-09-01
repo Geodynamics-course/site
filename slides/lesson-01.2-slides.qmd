@@ -45,7 +45,7 @@ bibliography: ../references.bib
 :::
 
 ::: {.column width="60%"}
-- Much of the elevation difference between continental and oceanic regions on Earth can be related to **isostasy**
+- Much of the elevation difference between continental and oceanic regions on Earth can be related to **[isostasy]{style="color:teal;"}**
 - At isostatic equilibrium, neighboring columns of rock will have equal pressure from the weight of the overlying rock at equal depth
 - Mathematically, we can say
 
@@ -108,13 +108,13 @@ print(f"Thus, the height above the mantle is {elevation/1000:.1f} km.")
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 ![](img/bf-f1.4-1.png)
 
 ![Predicted elevations for varying oceanic lithospheric thickness. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4-3.png)
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 - Assuming constant densities for various layers, we can estimate surface elevations
 - As expected, thicker oceanic lithosphere results in lower elevations due to higher average lithospheric density
 
@@ -127,19 +127,57 @@ print(f"Thus, the height above the mantle is {elevation/1000:.1f} km.")
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 ![](img/bf-f1.4-2.png)
 
 ![Predicted elevations for varying continental lithospheric thickness. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4-3.png)
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 - Assuming constant densities for various layers, we can estimate surface elevations
 - As expected, thicker oceanic lithosphere results in lower elevations due to higher average lithospheric density
 
     - Crustal thickness does not vary in this model
 
 - For continents, elevations generally scale with the crustal thickness because the mantle lithospheric thickness varies less
+:::
+
+::::
+
+## Internal structure {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![1D Earth models of density and seismic veolocty. Fig. 1.9 of Becker and Faccenna [-@Becker2025].](img/bf-f1.9.png){height="500"}
+:::
+
+::: {.column width="60%"}
+Density and seismic velocity vary with depth in Earth following changes in composition and phase changes.
+
+- Note that the models don't all agree, but show the same general trends
+- Steps in density or velocity in the upper mantle are related to transitions to denser mineral phases
+
+:::
+
+::::
+
+## Internal temperatures {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![Adiabatic mantle geotherm models. Fig. 1.13 of Becker and Faccenna [-@Becker2025].](img/bf-f1.13.png){height="500"}
+:::
+
+::: {.column width="60%"}
+**[Mantle adiabats]{style="color:teal;"}** indicate the change in mantle temperature resulting solely from changes in pressure
+
+- Note temperatures here are in Kelvins (K)
+- The average geothermal gradient in the mantle is ~0.3 °C/km
+
+    - This will produce a change in temperature across the mantle of ~1000 K
+
 :::
 
 ::::
