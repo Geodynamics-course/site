@@ -60,7 +60,7 @@ bibliography: ../references.bib
 
 ## Calculating isostatic equilibrium {.smaller}
 
-![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.png)
+![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.jpg)
 
 Let's consider a crustal block "floating" on the mantle.
 
@@ -69,7 +69,7 @@ Let's consider a crustal block "floating" on the mantle.
 In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is equal to that of the mantle beside it at the depth of its base $b$, or
 
 \begin{equation}
-$\rho_{\mathrm{c}}$ h = $\rho_{\mathrm{m}}$b
+\rho_{\mathrm{c}} h = \rho_{\mathrm{m}} b
 \end{equation}
 
 ## References
