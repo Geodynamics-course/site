@@ -89,7 +89,7 @@ In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is eq
 
     \begin{equation}
     b = \frac{\rho_{\mathrm{c}} h}{\rho_{\mathrm{m}}}
-    \end{equation
+    \end{equation}
 
 Plugging in numbers we find
 
