@@ -119,12 +119,29 @@ print(f"Thus, the height above the mantle is {elevation/1000:.1f} km.")
 - As expected, thicker oceanic lithosphere results in lower elevations due to higher average lithospheric density
 
     - Crustal thickness does not vary in this model
+:::
+
+::::
+
+## Isostatic topography {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](img/bf-f1.4-2.png)
+
+![Predicted elevations for varying continental lithospheric thickness. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4-3.png)
+:::
+
+::: {.column width="60%"}
+- Assuming constant densities for various layers, we can estimate surface elevations
+- As expected, thicker oceanic lithosphere results in lower elevations due to higher average lithospheric density
+
+    - Crustal thickness does not vary in this model
 
 - For continents, elevations generally scale with the crustal thickness because the mantle lithospheric thickness varies less
 :::
 
 ::::
-
-
 
 ## References
