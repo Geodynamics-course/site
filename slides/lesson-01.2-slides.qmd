@@ -97,10 +97,32 @@ Plugging in numbers we find
 #| echo: true
 
 b = (2750 * 35000) / 3300
+print(f"The equivalent thickness of lithosphere is {b/1000:.1f} km.")
 elevation = 35000 - b
-print(f"The height above the mantle is {elevation/1000:.1f} km.")
+print(f"Thus, the height above the mantle is {elevation/1000:.1f} km.")
 ```
 
 :::
+
+## Isostatic topography {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![Predicted elevations for varying oceanic and continental lithospheric thicknesses. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4.png){height="500"}
+:::
+
+::: {.column width="60%"}
+- Assuming constant densities for various layers, we can estimate surface elevations
+- As expected, thicker oceanic lithosphere results in lower elevations due to higher average lithospheric density
+
+    - Crustal thickness does not vary in this model
+
+- For continents, elevations generally scale with the crustal thickness because the mantle lithospheric thickness varies less
+:::
+
+::::
+
+
 
 ## References
