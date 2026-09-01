@@ -29,10 +29,10 @@ All of this can be found in on the course website!<br/>
 
 ## Goals for this course
 
-- Provide a general introduction to geodynamics with a <b>focus on the lithosphere</b>
-- Review <b>key geodynamic processes and the basic mathematical relationships</b> used to quantify and interpret them
-- Establish some sense of the <b>current areas of focus</b> in geodynamic scientific literature
-- <b>Enhance your scientific abilities</b> through practical course exercises
+- Provide a general introduction to geodynamics with a **[focus on the lithosphere]{style="color:teal;"}**
+- Review **[key geodynamic processes and the basic mathematical relationships]{style="color:teal;"}** used to quantify and interpret them
+- Establish some sense of the **[current areas of focus]{style="color:teal;"}** in geodynamic scientific literature
+- **[Enhance your scientific abilities]{style="color:teal;"}** through practical course exercises
 
 ## What is geodynamics? {background-image="img/machapuchare.jpg"}
 
