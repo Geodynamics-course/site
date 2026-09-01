@@ -50,12 +50,26 @@ bibliography: ../references.bib
 - Mathematically, we can say
 
     \begin{equation}
-    p_{l} = \rho g h = \int dz \rho(z) \g(z)
+    p_{l} = \rho g h = \int dz \rho(z) g(z)
     \end{equation}
 
     where $p_{l}$ is the lithostatic pressure, $\rho$ is rock density, $g$ is the acceleration due to gravity, $h$ is the thickness of rock, and $z$ is depth.
 :::
 
 ::::
+
+## Calculating isostatic equilibrium {.smaller}
+
+![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.png)
+
+Let's consider a crustal block "floating" on the mantle.
+
+- The crust “floats” because a typical crustal density $\rho_{\mathrm{c}}$ is ~2750 kg m<sup>-3</sup> whereas the mantle density $\rho_{\mathrm{m}}$ is ~3300 kg m<sup>-3</sup> (i.e., its buoyant)
+
+In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is equal to that of the mantle beside it at the depth of its base $b$, or
+
+\begin{equation}
+$\rho_{\mathrm{c}}$ h = $\rho_{\mathrm{m}}$b
+\end{equation}
 
 ## References
