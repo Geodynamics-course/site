@@ -157,7 +157,6 @@ Density and seismic velocity vary with depth in Earth following changes in compo
 
 - Note that the models don't all agree, but show the same general trends
 - Steps in density or velocity in the upper mantle are related to transitions to denser mineral phases
-
 :::
 
 ::::
@@ -177,7 +176,6 @@ Density and seismic velocity vary with depth in Earth following changes in compo
 - The average geothermal gradient in the mantle is ~0.3 °C/km
 
     - This will produce a change in temperature across the mantle of ~1000 K
-
 :::
 
 ::::
