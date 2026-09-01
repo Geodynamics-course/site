@@ -1,6 +1,6 @@
 ---
 title: "Geodynamics"
-subtitle: "Lesson 1.1 - Overview of plate tectonics"
+subtitle: "Lesson 1.3 - Toward plate tectonics"
 author: "David Whipp, University of Helsinki"
 institute: "firstname.lastname@helsinki.fi"
 format:
@@ -9,35 +9,104 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    logo: ../../img/HY_logo.png
-    css: ../../css/styles.css
+    logo: /img/HY_logo.png
+    css: /css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
+bibliography: ../references.bib
 ---
 
-## Practical matters
+## Goals for this lesson
 
-- Who are the teacher and course assistant?
-- When/where is class?
-- What does the course cover?
-- What do you need to do?
-- Textbook(s), what to bring to class, etc.
+- Review some important observations that led to the theory of plate tectonics
 
-All of this can be found in Moodle!<br/>
-<https://moodle.helsinki.fi/course/view.php?id=9628>.
-
-## Goals for this course
-
-- Provide a general introduction to geodynamics with a <b>focus on the lithosphere</b>
-- Review <b>key geodynamic processes and the basic mathematical relationships</b> used to quantify and interpret them
-- Establish some sense of the <b>current areas of focus</b> in geodynamic scientific literature
-- <b>Enhance your scientific abilities</b> through practical course exercises
-
-## What is geodynamics? {background-image="img/machapuchare.jpg"}
+## Steps toward plate tectonics
 
 ::: {.incremental}
-- Study of the dynamics of the Earth
 
-    - Physical processes
-    - Plate tectonics and other dynamic geological phenomena
+- **[1596 - Abraham Ortelius]{style="color:teal;"}**: Margins of the Atlantic Ocean fit together like a puzzle
+- **[1858 - Antonio Snider-Pellegrini]{style="color:teal;"}**: Coastlines of W. Africa and E. South America fit, similar rocks and fossils
+- **[1910 - Frank B. Taylor]{style="color:teal;"}**: Hypothesis of continental drift
+- **[1912 - Alfred Wegener]{style="color:teal;"}**: Further development of continental drift
+
 :::
+
+## Steps toward plate tectonics {.smaller}
+
+![Paleogeographic reconstruction of the closure of the Atlantic Ocean. From Snider-Pellegrini [-@Snider-Pellegrini1858].](img/snider-pellegrini-1858.jpg){height="500"}
+
+## Continental drift and Wegener {.smaller}
+
+Wegener assembled the main concepts of continental drift, proposing all of the continents were part of a Mesozoic supercontinent
+
+Evidence:
+
+- Fit of the continents on either side of the Atlantic Ocean
+- Distributions of rocks, fossils and deposits linked to climate (glacial till, tropical coals, etc.)
+- Nappes in the Alps (lateral movement)
+
+Wegener also fought against the prevailing vertical tectonic ideas, arguing that near isostatic equilibrium measured in the crust was incompatible with vertical motions (no land bridges)
+
+## Continental drift and Wegener
+
+Wegener struggled with finding a good driving mechanism. He suggested a differential rotational force and/or tidal forces could drive drift, but this was heavily criticized.
+
+- The forces were much too small to send continents plowing through the oceanic crust
+
+## Continental drift and Wegener {.smaller}
+
+![Convection of the mantle and its effects on the continents. From Holmes [-@Holmes1929].](img/holmes-1929.png){height="400"}
+
+In 1929, Arthur Holmes proposed mantle convection as a driver of continental drift, but Wegener's ideas remained unpopular into the 1950s
+
+## Apparent polar wonder paths {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![Apparent polar wonder paths for N. America and Europe. Fig. 1.27 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f1.27.jpg){height="400"}
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+**[Runcorn, 1956]{style="color:teal;"}**: Rocks in N. America and Europe have record different paleomagnetic poles
+
+- If you rotate either Europe or N. America such that the two apparent polar wonder paths overlap in the Triassic, you close the Atlantic Ocean
+:::
+
+:::
+::::
+
+## Seafloor spreading {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![Magnetic anomalies and polarity changes at the Reykjanes Ridge. Fig. 1.28 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f1.28.jpg){height="400"}
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+**[Vine and Matthews, 1963]{style="color:teal;"}**: Correlated changes in magnetic polarity of rock on either side of spreading ridges to quantify spreading rates
+
+- The rate of spreading can be determined by combining observed magnetic anomalies on either side of a spreading ridge with a record of magnetic polarity over time
+:::
+
+:::
+::::
+
+## Seafloor spreading {.smaller}
+
+![Magnetic polarity changes and spreading rate across the East Pacific Rise. Fig. 1.29 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f1.29.jpg){height="400"}
+
+You can calculate a spreading rate by (1) extracting the magnetic reversal signal from observed magnetic anomalies and (2) using a magnetic time scale to link reversals to geologic time
+
+## Transform faults {.smaller}
+
+![The first map of the tectonic plates?. From Wilson [-@Wilson1965].](img/wilson-1965.png)
+
+**[Wilson, 1965]{style="color:teal;"}**: Major convergent and extensional faults are connected by a new type of fault called a transform fault
+
+## References
