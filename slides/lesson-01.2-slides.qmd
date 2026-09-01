@@ -36,8 +36,26 @@ bibliography: ../references.bib
 
 ::::
 
-## The role of isostasy
+## The role of isostasy {.smaller}
 
+:::: {.columns}
 
+::: {.column width="40%"}
+![Isostatic balance for a lithospheric and asthenospheric column. Fig. 1.3 of Becker and Faccenna [-@Becker2025].](img/bf-f1.3.png){height="500"}
+:::
+
+::: {.column width="60%"}
+- Much of the elevation difference between continental and oceanic regions on Earth can be related to **isostasy**
+- At isostatic equilibrium, neighboring columns of rock will have equal pressure from the weight of the overlying rock at equal depth
+- Mathematically, we can say
+
+    \begin{equation}
+    p_{l} = \rho g h = \int dz \rho(z) \g(z)
+    \end{equation}
+
+    where $p_{l}$ is the lithostatic pressure, $\rho$ is rock density, $g$ is the acceleration due to gravity, $h$ is the thickness of rock, and $z$ is depth.
+:::
+
+::::
 
 ## References
