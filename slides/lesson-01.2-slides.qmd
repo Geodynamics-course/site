@@ -74,11 +74,11 @@ In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is eq
 
 ## Calculating isostatic equilibrium {.smaller}
 
-![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.jpg)
-
 ::: {.panel-tabset}
 
 ### Question
+
+![Crustal block floating on the mantle. Fig. 2.2 of Turcotte and Schubert [-@Turcotte2014].](img/ts-f2.2.jpg)
 
 **[How high does a 35-km-thick continent stick out above the mantle?]{style="color:teal;"}**
 
