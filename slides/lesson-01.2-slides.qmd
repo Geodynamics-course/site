@@ -82,11 +82,9 @@ In hydrostatic equilibrium the weight of a crustal column of thickness $h$ is eq
 
 **[How high does a 35-km-thick continent stick out above the mantle?]{style="color:teal;"}**
 
-:::
-
 ### Solution
 
-- At eqiulibrium we know $\rho_{\mathrm{c}} h = \rho_{\mathrm{m}} b$
+- At equilibrium we know $\rho_{\mathrm{c}} h = \rho_{\mathrm{m}} b$
 - Using $\rho_{\mathrm{c}} = 2750$ kg m<sup>-3</sup>, $\rho_{\mathrm{m}} = 3300$ kg m<sup>-3</sup>, and $h = 35$ km we can solve for $b$:
 
     \begin{equation}
