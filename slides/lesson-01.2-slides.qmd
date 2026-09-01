@@ -109,8 +109,8 @@ print(f"Thus, the height above the mantle is {elevation/1000:.1f} km.")
 :::: {.columns}
 
 ::: {.column width="40%"}
-![](img/bf-f1.4-1.png){height="500"}
-![Predicted elevations for varying oceanic lithospheric thickness. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4-3.png){height="500"}
+![](img/bf-f1.4-1.png)
+![Predicted elevations for varying oceanic lithospheric thickness. Fig. 1.4 of Becker and Faccenna [-@Becker2025].](img/bf-f1.4-3.png)
 :::
 
 ::: {.column width="60%"}
