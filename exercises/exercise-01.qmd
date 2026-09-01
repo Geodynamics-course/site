@@ -8,22 +8,22 @@ Please answer the questions below. These exercises should be completed and you s
 
 **This assignment is due by the start of class on 8.9.**
 
-1. Plate velocities at an RRR triple junction
+1. **[Plate velocities at an RRR triple junction]{style="color:teal;"}**
 
     Consider an RRR triple junction of plates A, B and C. The ridge between plates A and B lies in a north-south direction (an azimuth of 0° with respect to the triple junction) and has a relative velocity of 60 mm/yr. The ridge between plates B and C has an azimuth of 120° with respect to the triple junction, and the ridge between plates A and C has an azimuth of 270° with respect to the triple junction. Determine the azimuths and magnitudes of the relative velocities between plates B and C, and C and A. Include a vector diagram of the relative plate velocities.<br/>
     Source: Problem 1.20 from Turcotte and Schubert (2014)
 
-2. Can an FFF triple junction exist?
+2. **[Can an FFF triple junction exist?]{style="color:teal;"}**
 
     Show that a triple junction of 3 transform faults cannot exist. Draw an example to graphically demonstrate an FFF triple junction is unstable.<br/>
     Source: Problem 1.21 from Turcotte and Schubert (2014)
 
-3. Distances on a sphere
+3. **[Distances on a sphere]{style="color:teal;"}**
     
     Earth's magnetic poles are at 73°N, 100°W and 68°S, 143°E. The best-fit dipole poles are at 79°N, 70°W and 79°S, 110°E. What is the surface distance between Earth's magnetic poles and geographic poles? What is the surface distance between Earth's magnetic poles and best-fit dipole poles?<br/>
     Source: Problems 1.13, 1.14 from Turcotte and Schubert (2014)
 
-4. Plate motions on a sphere
+4. **[Plate motions on a sphere]{style="color:teal;"}**
     
     The India-Eurasia rotation pole is at 24.4°N, 17.7°E and has an angular velocity of deg/Myr. What is the relative plate velocity between the Indian and Eurasian plates in the Himalayas (30°N, 81°E)?<br/>
     Source: Problem 1.19 from Turcotte and Schubert (2014)
