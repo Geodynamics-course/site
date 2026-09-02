@@ -6,7 +6,7 @@ filters:
 
 ## Introduction
 
-Lesson 1.3 introduces the course and field of Geodynamics.
+Lesson 1.3 introduces some key steps preceding the theory of plate tectonics.
 
 ## Lesson 1.3 - Toward plate tectonics
 
