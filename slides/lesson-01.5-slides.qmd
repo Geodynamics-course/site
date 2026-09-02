@@ -1,6 +1,6 @@
 ---
 title: "Geodynamics"
-subtitle: "Lesson 1.1 - Overview of plate tectonics"
+subtitle: "Lesson 1.5 - Plate boundary types and the Wilson cycle"
 author: "David Whipp, University of Helsinki"
 institute: "firstname.lastname@helsinki.fi"
 format:
@@ -9,10 +9,11 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    logo: ../../img/HY_logo.png
-    css: ../../css/styles.css
+    logo: /img/HY_logo.png
+    css: /css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
+bibliography: ../references.bib
 ---
 
 ## Practical matters

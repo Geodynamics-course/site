@@ -1,6 +1,6 @@
 ---
 title: "Geodynamics"
-subtitle: "Lesson 1.1 - Overview of plate tectonics"
+subtitle: "Lesson 1.6 - Describing plate motions"
 author: "David Whipp, University of Helsinki"
 institute: "firstname.lastname@helsinki.fi"
 format:
@@ -13,6 +13,7 @@ format:
     css: ../../css/styles.css
     theme: serif
     footer: '[https://geodynamics-course.github.io](https://geodynamics-course.github.io)'
+bibliography: ../references.bib
 ---
 
 ## Practical matters
